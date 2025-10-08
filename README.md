@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://github.com/pandexofficial/wordmate/blob/main/background.png"> </div>
+
 # 🌍 WordMate  
 **“Elevate your English, anytime, anywhere.”**  
 
