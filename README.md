@@ -42,18 +42,6 @@ helping users expand their vocabulary, stay consistent, and track progress seaml
 
 ---
 
-## 🗄️ Technologies Used  
-
-| Component | Stack |
-|------------|--------|
-| **Telegram Bot** | Python, Aiogram / python-telegram-bot |
-| **Backend** | Python (Flask or FastAPI) |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Database** | MySQL |
-| **Analytics / Charts** | Chart.js or Plotly |
-
----
-
 ## 📈 Future Improvements  
 - Thematic word sets (Business, Travel, IT, etc.)  
 - Achievements and leaderboards  
