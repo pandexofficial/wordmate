@@ -53,7 +53,7 @@ helping users expand their vocabulary, stay consistent, and track progress seaml
 ---
 
 ## 🧠 Author  
-**Targonii Vladyslav Olehhovych**  
+**Peshko Ivan**  
 🎓 3rd-year student — *Information Technologies Section*  
 💡 Focus area: *Internet Technologies and Web Design*  
 
